@@ -3,5 +3,6 @@
 ## 使用方法
 + 安装requirements依赖
 + 修改app.py里面的参数 sToken、sEncodingAESKey、sCorpID
++ 运行app.py
 
 ![](/001.png)
